@@ -16,7 +16,7 @@ O objetivo é praticar os fundamentos da programação utilizando **JavaScript**
 - Estruturas de decisão  
 - Entrada e saída de dados  
 
-O programa solicita o **nome**, o **gênero** e a **quantidade de XP** do personagem e retorna seu **nível de herói(a)** conforme a tabela de classificação.
+O programa solicita o **nome**,  e a **quantidade de XP** do personagem e retorna seu **nível de herói(a)** conforme a tabela de classificação.
 
 ---
 
